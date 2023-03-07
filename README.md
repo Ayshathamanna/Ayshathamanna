@@ -13,8 +13,8 @@ BUSINESS REQUEST
 CLEAN THE DATA
 •	Understand the difference between fact tables and dimension tables.
 •	Identify which table on the data are of interest with the help of the business request form
-•	Ch00se which column are of interest to export by preparing and transforming these column in sql using concepts
-        such as renaming columns. combining column WHERE clause ORDERBY ,INNER JOIN,DISTINCT() and ISNULL() functions
+•	Choose which column are of interest to export by preparing and transforming these column in sql using concepts
+  such as renaming columns. combining column WHERE clause ORDERBY ,INNER JOIN,DISTINCT() and ISNULL() functions
 
 CREATE DASHBOARD USING POWERBI
               
